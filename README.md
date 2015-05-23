@@ -44,5 +44,11 @@
 ##### day3-08-管道原理及应用
 题目：学习管道原理及应用
 
+### [day4]
+##### day4-01-字符串标准库
+题目：字符串标准库-index ，memcpy ，strcat，strchr，strcmp，strcpy
+##### day4-02-文件操作函数
+题目：day4-02-文件操作函数 fopen, fclose ,fputs,
+
 
   
